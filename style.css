@@ -9,7 +9,7 @@
     margin: 0 auto;
     width: 100%;
     /* 📍 Максимальная ширина для контейнера */
-    max-width: 1568px;
+    max-width: 1140px;
 }
 
 body {
@@ -46,7 +46,7 @@ header span {
 
 .text-wrapper {
     /* 📍 Cвойство для ограничения ширины блока с текстом в первой секции */
-    max-width: 1568px;
+    max-width: 425px;
 }
 
 .main-title {
@@ -123,7 +123,7 @@ select:hover,
 
 .frameworks-list {
     font-weight: 400;
-    font-size: 16px;
+    font-size: 14px;
     list-style-image: url(./assets/image/solar_map-arrow-up-bold.svg);
     padding-left: 20px;
     display: flex;
